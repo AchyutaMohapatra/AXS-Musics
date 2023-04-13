@@ -13,6 +13,6 @@ Screenshot
 
 
 #demo
-[Buy Me a Coffee](https://www.buymeacoffee.com/siku29) </b>r
+[Buy Me a Coffee](https://www.buymeacoffee.com/siku29) </br>
 [Linkedin](https://www.linkedin.com/in/achyuta-kumar-mohapatra-54894a21a/)
 
