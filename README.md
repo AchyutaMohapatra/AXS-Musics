@@ -12,7 +12,10 @@ Screenshot
 ![1](https://user-images.githubusercontent.com/79587101/231710077-a9690115-6353-4a70-ac91-9714951cb696.png)
 
 
-#demo
+#demo </br>
+[link](https://axs-musics.vercel.app/)</br>
+
 [Buy Me a Coffee](https://www.buymeacoffee.com/siku29) </br>
+
 [Linkedin](https://www.linkedin.com/in/achyuta-kumar-mohapatra-54894a21a/)
 
