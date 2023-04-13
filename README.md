@@ -13,5 +13,6 @@ Screenshot
 
 
 #demo
-[Link](https://axs-musics.vercel.app/)
+[Buy Me a Coffee](https://www.buymeacoffee.com/siku29)
+[Linkedin](https://www.linkedin.com/in/achyuta-kumar-mohapatra-54894a21a/)
 
